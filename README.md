@@ -1,4 +1,4 @@
-## 2026.07.14 最佳开源项目🔝:OpenCut
+## 2026.07.15 最佳开源项目🔝:OpenCut
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,131 +15,131 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.07.14日榜最佳项目:OpenCut-app/OpenCut  
+> 🏆2026.07.15日榜最佳项目:OpenCut-app/OpenCut  
 - 开源地址：https://github.com/OpenCut-app/OpenCut
 - 📅 开源时间：2025-06-22
-- ⭐ 总星标数量：68984⭐
-- 🔺 日Star增长量：3347⭐
+- ⭐ 总星标数量：71194⭐
+- 🔺 日Star增长量：2210⭐
 - 📝 项目描述: The open-source CapCut alternative
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.14 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.15 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
-| 1 |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)| 69k  | 🔺3347 |
-| 2 |  [safishamsi/graphify](https://github.com/safishamsi/graphify)| 86.1k  | 🔺1719 |
-| 3 |  [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)| 22.7k  | 🔺1162 |
-| 4 |  [Nutlope/hallmark](https://github.com/Nutlope/hallmark)| 6k  | 🔺1018 |
-| 5 |  [stablyai/orca](https://github.com/stablyai/orca)| 19k  | 🔺942 |
-| 6 |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)| 83k  | 🔺844 |
-| 7 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)| 13.3k  | 🔺824 |
-| 8 |  [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)| 39.2k  | 🔺763 |
-| 9 |  [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)| 51.5k  | 🔺762 |
-| 10 |  [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)| 16.7k  | 🔺633 |
+| 1 |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)| 71.2k  | 🔺2210 |
+| 2 |  [Nutlope/hallmark](https://github.com/Nutlope/hallmark)| 8k  | 🔺1984 |
+| 3 |  [safishamsi/graphify](https://github.com/safishamsi/graphify)| 87.6k  | 🔺1505 |
+| 4 |  [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)| 17.6k  | 🔺979 |
+| 5 |  [hasaneyldrm/exercises-dataset](https://github.com/hasaneyldrm/exercises-dataset)| 14.2k  | 🔺933 |
+| 6 |  [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)| 83.9k  | 🔺916 |
+| 7 |  [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)| 23.6k  | 🔺843 |
+| 8 |  [stablyai/orca](https://github.com/stablyai/orca)| 19.8k  | 🔺758 |
+| 9 |  [Raphire/Win11Debloat](https://github.com/Raphire/Win11Debloat)| 52.2k  | 🔺740 |
+| 10 |  [HenryNdubuaku/maths-cs-ai-compendium](https://github.com/HenryNdubuaku/maths-cs-ai-compendium)| 5.8k  | 🔺648 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.14 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.15 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/OpenCut-app/OpenCut</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：69k
-- 🔺 日增长数量：3347⭐
-- 🔺 上周增长数量：7339⭐
-- 🔺 上月增长数量：9791⭐
+- ⭐ 总星标数量：71.2k
+- 🔺 日增长数量：2210⭐
+- 🔺 上周增长数量：9472⭐
+- 🔺 上月增长数量：12001⭐
 - 📅 开源时间：2025-06-22
 - 📝 项目描述：The open-source CapCut alternative
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/safishamsi/graphify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2.  https://github.com/Nutlope/hallmark</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：86.1k
-- 🔺 日增长数量：1719⭐
-- 🔺 上周增长数量：7494⭐
-- 🔺 上月增长数量：9097⭐
-- 📅 开源时间：2026-04-03
-- 📝 项目描述：AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/HKUDS/Vibe-Trading</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：22.7k
-- 🔺 日增长数量：1162⭐
-- 🔺 上周增长数量：4558⭐
-- 🔺 上月增长数量：11451⭐
-- 📅 开源时间：2026-04-01
-- 📝 项目描述："Vibe-Trading: Your Personal Trading Agent"
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/Nutlope/hallmark</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：6k
-- 🔺 日增长数量：1018⭐
-- 🔺 上周增长数量：1808⭐
-- 🔺 上月增长数量：1808⭐
+- ⭐ 总星标数量：8k
+- 🔺 日增长数量：1984⭐
+- 🔺 上周增长数量：3792⭐
+- 🔺 上月增长数量：3792⭐
 - 📅 开源时间：2026-04-28
 - 📝 项目描述：Anti-AI-slop design skill for Claude Code, Cursor, and Codex.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/stablyai/orca</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">3.  https://github.com/safishamsi/graphify</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：19k
-- 🔺 日增长数量：942⭐
-- 🔺 上周增长数量：6217⭐
-- 🔺 上月增长数量：12722⭐
-- 📅 开源时间：2026-03-17
-- 📝 项目描述：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
-
-
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/DietrichGebert/ponytail</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
-
-- ⭐ 总星标数量：83k
-- 🔺 日增长数量：844⭐
-- 🔺 上周增长数量：7195⭐
-- 🔺 上月增长数量：75280⭐
-- 📅 开源时间：2026-06-15
-- 📝 项目描述：
+- ⭐ 总星标数量：87.6k
+- 🔺 日增长数量：1505⭐
+- 🔺 上周增长数量：8196⭐
+- 🔺 上月增长数量：10602⭐
+- 📅 开源时间：2026-04-03
+- 📝 项目描述：AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/hasaneyldrm/exercises-dataset</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">4.  https://github.com/iOfficeAI/OfficeCLI</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：13.3k
-- 🔺 日增长数量：824⭐
-- 🔺 上周增长数量：3150⭐
-- 🔺 上月增长数量：6937⭐
+- ⭐ 总星标数量：17.6k
+- 🔺 日增长数量：979⭐
+- 🔺 上周增长数量：7832⭐
+- 🔺 上月增长数量：7832⭐
+- 📅 开源时间：2026-03-15
+- 📝 项目描述：OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">5.  https://github.com/hasaneyldrm/exercises-dataset</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：14.2k
+- 🔺 日增长数量：933⭐
+- 🔺 上周增长数量：3566⭐
+- 🔺 上月增长数量：7870⭐
 - 📅 开源时间：2026-03-18
 - 📝 项目描述：A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/coreyhaines31/marketingskills</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">6.  https://github.com/DietrichGebert/ponytail</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：39.2k
-- 🔺 日增长数量：763⭐
-- 🔺 上周增长数量：2097⭐
-- 🔺 上月增长数量：5875⭐
-- 📅 开源时间：2026-01-16
-- 📝 项目描述：Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
+- ⭐ 总星标数量：83.9k
+- 🔺 日增长数量：916⭐
+- 🔺 上周增长数量：7174⭐
+- 🔺 上月增长数量：76196⭐
+- 📅 开源时间：2026-06-15
+- 📝 项目描述：
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">7.  https://github.com/HKUDS/Vibe-Trading</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：23.6k
+- 🔺 日增长数量：843⭐
+- 🔺 上周增长数量：5089⭐
+- 🔺 上月增长数量：12130⭐
+- 📅 开源时间：2026-04-01
+- 📝 项目描述："Vibe-Trading: Your Personal Trading Agent"
+
+
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">8.  https://github.com/stablyai/orca</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+
+- ⭐ 总星标数量：19.8k
+- 🔺 日增长数量：758⭐
+- 🔺 上周增长数量：6370⭐
+- 🔺 上月增长数量：13480⭐
+- 📅 开源时间：2026-03-17
+- 📝 项目描述：Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/Raphire/Win11Debloat</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：51.5k
-- 🔺 日增长数量：762⭐
-- 🔺 上周增长数量：1303⭐
-- 🔺 上月增长数量：3828⭐
+- ⭐ 总星标数量：52.2k
+- 🔺 日增长数量：740⭐
+- 🔺 上周增长数量：1989⭐
+- 🔺 上月增长数量：4296⭐
 - 📅 开源时间：2020-10-28
 - 📝 项目描述：A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/iOfficeAI/OfficeCLI</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/HenryNdubuaku/maths-cs-ai-compendium</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：16.7k
-- 🔺 日增长数量：633⭐
-- 🔺 上周增长数量：6853⭐
-- 🔺 上月增长数量：6853⭐
-- 📅 开源时间：2026-03-15
-- 📝 项目描述：OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.
+- ⭐ 总星标数量：5.8k
+- 🔺 日增长数量：648⭐
+- 🔺 上周增长数量：648⭐
+- 🔺 上月增长数量：648⭐
+- 📅 开源时间：2026-02-04
+- 📝 项目描述：Become a cracked AI/ML Research Engineer
 
 
 ---
@@ -150,6 +150,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+4e2e3e4.png" alt=""></span><center>
 ��关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
