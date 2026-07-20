@@ -1,4 +1,4 @@
-## 2026.07.18 最佳开源项目🔝:council-of-high-intelligence
+## 2026.07.19 最佳开源项目🔝:council-of-high-intelligence
 
 <h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">关注社区</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
@@ -15,14 +15,14 @@
 - **喜欢分享&关注开源, +微信: open_github**
 
 
-> 🏆2026.07.18日榜最佳项目:0xNyk/council-of-high-intelligence  
+> 🏆2026.07.19日榜最佳项目:0xNyk/council-of-high-intelligence  
 - 开源地址：https://github.com/0xNyk/council-of-high-intelligence
 - 📅 开源时间：2026-03-02
 - ⭐ 总星标数量：3636⭐
 - 🔺 日Star增长量：3632⭐
 - 📝 项目描述: 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.18 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.19 日榜排行</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 | 排名        |  项目名      | Star⭐       | 今日增长量   |
 |------------|------------|---------------|---------------- |
@@ -34,12 +34,12 @@
 | 6 |  [safishamsi/graphify](https://github.com/safishamsi/graphify)| 90.8k  | 🔺761 |
 | 7 |  [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut)| 75.3k  | 🔺645 |
 | 8 |  [stablyai/orca](https://github.com/stablyai/orca)| 21.7k  | 🔺642 |
-| 9 |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)| 42.6k  | 🔺590 |
-| 10 |  [k1tbyte/Wand-Enhancer](https://github.com/k1tbyte/Wand-Enhancer)| 9.3k  | 🔺495 |
+| 9 |  [jamiepine/voicebox](https://github.com/jamiepine/voicebox)| 43.2k  | 🔺574 |
+| 10 |  [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine)| 9.3k  | 🔺545 |
 
 **注**: 数据统计参见github:https://github.com/OpenGithubs/github-daily-rank
 
-<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.18 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
+<h2 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.3em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(239, 112, 96);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">2026.07.19 日榜项目详情</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h2>
 
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">1.  https://github.com/0xNyk/council-of-high-intelligence</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
@@ -124,22 +124,22 @@
 
 <h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">9.  https://github.com/jamiepine/voicebox</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
-- ⭐ 总星标数量：42.6k
-- 🔺 日增长数量：590⭐
-- 🔺 上周增长数量：1819⭐
-- 🔺 上月增长数量：12146⭐
+- ⭐ 总星标数量：43.2k
+- 🔺 日增长数量：574⭐
+- 🔺 上周增长数量：2193⭐
+- 🔺 上月增长数量：12523⭐
 - 📅 开源时间：2026-01-25
 - 📝 项目描述：The open-source voice synthesis studio
 
 
-<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/k1tbyte/Wand-Enhancer</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
+<h3 style="margin-top: 30px;margin-bottom: 15px;font-weight: bold;border-bottom: 2px solid rgb(239, 112, 96);font-size: 1.0em;"><span style="display: none;"></span><span style="display: inline-block;background: rgb(139, 132, 156);color: rgb(255, 255, 255);padding: 3px 10px 1px;border-top-right-radius: 3px;border-top-left-radius: 3px;margin-right: 3px;">10.  https://github.com/moonshine-ai/moonshine</span><span style="display: inline-block;vertical-align: bottom;border-bottom: 36px solid #efebe9;border-right: 20px solid transparent;"> </span></h3>
 
 - ⭐ 总星标数量：9.3k
-- 🔺 日增长数量：495⭐
-- 🔺 上周增长数量：2404⭐
-- 🔺 上月增长数量：2404⭐
-- 📅 开源时间：2024-11-18
-- 📝 项目描述：Advanced UX and interoperability extension for Wand (WeMod) app
+- 🔺 日增长数量：545⭐
+- 🔺 上周增长数量：599⭐
+- 🔺 上月增长数量：781⭐
+- 📅 开源时间：2024-10-05
+- 📝 项目描述：Fast and accurate automatic speech recognition (ASR) for edge devices
 
 
 ---
@@ -150,7 +150,7 @@
 <center><span style="color: orangered">▲关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
 <center><span><img class="avatar-img " style="width:450px;height:250px;" src="http://photocdn.tv.sohu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
-hu.com/img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
+img/q_mini/20250620/pic_org_bb5f9d1c-8551-4f8e-8719-b729a4e2e3e4.png" alt=""></span><center>
 4e2e3e4.png" alt=""></span><center>
 ��关注公众号"开源推荐官"，洞察Github开源社区动态</span><center>
 <br/>
